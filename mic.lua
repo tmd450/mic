@@ -1,3 +1,5 @@
+local Config = require(Folder.Config)
+local Players = game:GetService("Players")
 local DataPlr = {}
 	local Post = {}
 	
