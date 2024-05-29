@@ -1,3 +1,4 @@
+local Folder = script.Parent
 local Config = require(Folder.Config)
 local Players = game:GetService("Players")
 local DataPlr = {}
